@@ -23,7 +23,7 @@ class IntroScreen extends StatelessWidget {
         ),
       ),
       onDone: () {
-        Navigator.pushReplacementNamed(context, AppRoutes.routeName);
+        Navigator.pushReplacementNamed(context, AppRoutes.homeRouteName);
       },
       dotsDecorator: DotsDecorator(
         color: Colors.grey,

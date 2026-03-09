@@ -1,5 +1,5 @@
 class AppAssets {
-  static const String quranBg = 'assets/images/quran background.png';
+  static const String quranBg = 'assets/images/Background quran.png';
 
   static const String hadethBg = 'assets/images/hadeth.png';
 
@@ -19,5 +19,14 @@ class AppAssets {
 
   static const String iconTime = 'assets/images/ic_time.png';
 
+  static const String iconSearch = 'assets/images/logo search.png';
+
   static const String logoIslami = 'assets/images/Logo islami.png';
+
+  static const String mostRecentlyImage = 'assets/images/img_most_recent.png';
+
+  static const String suraVector = 'assets/images/Vector.png';
+
+  static const String detailsScreenShape =
+      'assets/images/details screen shape.png';
 }
